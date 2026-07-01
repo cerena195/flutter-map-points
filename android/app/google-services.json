@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456845405290",
+    "project_id": "points-flett-map",
+    "storage_bucket": "points-flett-map.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456845405290:android:e9613f1961f75aca1fae13",
+        "android_client_info": {
+          "package_name": "com.example.points_flett_map"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ydOLM0B-4qgL9pBoGLToYLg1z0c1Tr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
